@@ -1,8 +1,5 @@
  Eczema vs Scabies Classification using Deep Learning
 
-#Publication Status
-*Under Review**
-*An explainable deep learning framework for robust classification of eczema and scabies using a multi-regional dermatological image dataset*
 
  Overview
 
